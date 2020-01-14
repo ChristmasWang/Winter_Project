@@ -9,3 +9,8 @@ This is for NJU CS2019 Winter_Project. :smirk:
 ### Before the next week， you may have to learn something.
 1. What is `Class`? And what is the difference between `class` and `struct`.
 2. If you want to program a GUI intereface for your project (not just in cmd), you may have to learn something about **QT**.
+
+
+> Note: 
+  1. You can learn about `Git` from [GitHub(liaoxuefeng)](https://www.liaoxuefeng.com/wiki/896043488029600)
+  

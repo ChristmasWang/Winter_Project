@@ -12,5 +12,5 @@ This is for NJU CS2019 Winter_Project. :smirk:
 
 
 > Note: 
-  1. You can learn about `Git` from [GitHub(liaoxuefeng)](https://www.liaoxuefeng.com/wiki/896043488029600)
+  1. You can learn about `Git` from [Git Learning(liaoxuefeng)](https://www.liaoxuefeng.com/wiki/896043488029600)
   

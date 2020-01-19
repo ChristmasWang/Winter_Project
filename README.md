@@ -10,6 +10,8 @@ This is for NJU CS2019 Winter_Project. :smirk:
 1. What is `Class`? And what is the difference between `class` and `struct`.
 2. If you want to program a GUI intereface for your project (not just in cmd), you may have to learn something about **QT**.
 
+### There are some `TIPS` in **Tutorial/Tutorial.ppt**, maybe U can read it first.
+
 ### For the Second week(ddl: 2020.1.26 20:00), you have to do these.
 1. According to `Class Admin`, define `Class Customer` and `Class Good`
 2. Improve U PowerPoint(Maybe there are some new thoughts U have got, add them to U PPT)
